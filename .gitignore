@@ -1,0 +1,22 @@
+# Solidity build files
+build/
+artifacts/
+cache/
+
+# Remix IDE settings
+.remix-project
+
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+
+# OS generated files
+.DS_Store
+Thumbs.db
